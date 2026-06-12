@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/148e4749-0481-4f74-936a-3ad1a5542810" width="250" alt="Mongito logo"/>
+  <img src="https://github.com/user-attachments/assets/f1dcf201-bbbf-4080-aa57-ef57f6fbc998" width="250" alt="Mongito logo"/>
   <p><strong>Gerador de scripts MongoDB a partir de arquivos CSV</strong></p>
   <p>
     <img alt="GitHub release" src="https://img.shields.io/github/v/release/sk9g3/mongito?style=flat-square&color=06d6a0"/>
